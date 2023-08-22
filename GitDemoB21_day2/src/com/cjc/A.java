@@ -8,7 +8,10 @@ public void m1()
 		System.out.println("hello");
 	}
 
-
+public void m2()
+	{
+		System.out.println("hello and bye");
+	}
 public void ms()
 {
 	System.out.println("hi");
