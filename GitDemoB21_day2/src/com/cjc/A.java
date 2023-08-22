@@ -8,6 +8,11 @@ public void m1()
 		
 	}
 
+
+public void ms()
+{
+	System.out.println("hi");
+}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
