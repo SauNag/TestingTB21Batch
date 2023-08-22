@@ -7,6 +7,9 @@ public class A {
       System.out.println("Hello world");
       
       System.out.println("Hello India");
+
+		 System.out.println("Hello MAHARASHTRA");
+
 	}
 
 }
